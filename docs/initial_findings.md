@@ -1,6 +1,6 @@
 # Initial Findings
 
-![WorldStats](https://raw.githubusercontent.com/somo11/wwii_casualties_by_state/ssomohano/docs/World%20Total%20%20(1).png)
+!(https://raw.githubusercontent.com/somo11/wwii_casualties_by_state/ssomohano/docs/World%20Total%20%20(1).png)
 
 This is where you where you discuss any (initial) conclusions you have come to. This is also a natural place to put any and all visualizations that you come up with.
 
