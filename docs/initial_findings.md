@@ -1,8 +1,8 @@
 # Initial Findings
+---
+![yes](<img alt="Screen Shot 2018-07-22 at 6.30.03 PM.png" src="/somo11/wwii_casualties_by_state/blob/master/docs/Screen%20Shot%202018-07-22%20at%206.30.03%20PM.png?raw=true">)
+=======
 
-
-
-![WWII]([World_Total_1.png](https://postimg.cc/image/or9dkjftz/))
 ---
 
 
