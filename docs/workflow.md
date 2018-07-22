@@ -4,15 +4,4 @@ Our group decided to do research on the amount of United States casualties in th
 
 As our project began to develop, we found a data set from the National Archives and Records website which narrowed down our research. Once we decided on a World War II topic, we decided to breakdown the amount of casualties by individual state. Once our main data set was obtained, we decided to work closer together than innitially planed. At first we intended to work on this project seperatley and to contact eachother via email. Though as the project developed, our group began to share the work load by meeting up on various occasions to complete sections of the project together. 
  
-=======
 
-Describe your overall workflow here.
-
-Discuss (in detail) the processes of
-
-* Getting the data
-* Cleaning/altering the data
-* Visualizing the data
-* Discussing and sharing results with group members
-
-To make elegant workflow charts, use [LucidChart](https://lucidchart.com)
