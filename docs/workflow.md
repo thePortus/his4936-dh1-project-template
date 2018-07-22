@@ -7,3 +7,4 @@ As our project began to develop, we found a data set from the National Archives 
 Since we worked on the majority of the project together, the bulk of the repository edits come from only one GitHub acount. Our groupr ran into multiple difficulties communicating via GitHub and left us to resorting to verbal communication and or email. Once our group became fimiliar with the files on GitHub, the project tasks seemed to be much more effective. At this point, our group once again divided the tasks and began to work on graphs, models, visualizations and formulated questions based on the data.
 
 
+
