@@ -1,7 +1,7 @@
 # Initial Findings
 
 ---
-![screenshot](wwii_casualties_by_state/docs/Screen Shot 2018-07-22 at 6.30.03 PM.png)
+!(wwii_casualties_by_state/docs/Screen Shot 2018-07-22 at 6.30.03 PM.png)
 
 This is where you where you discuss any (initial) conclusions you have come to. This is also a natural place to put any and all visualizations that you come up with.
 
