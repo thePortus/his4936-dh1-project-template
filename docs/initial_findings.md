@@ -1,9 +1,8 @@
  Initial Findings
 
----
+
 ![image](https://postimg.cc/image/or9dkjftz/)
 
----
 
 
 This is where you where you discuss any (initial) conclusions you have come to. This is also a natural place to put any and all visualizations that you come up with.
