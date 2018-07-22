@@ -2,7 +2,7 @@
 
 
 
-![WWII]([World_Total_1.png](https://postimg.cc/image/or9dkjftz/)
+![WWII]([World_Total_1.png](https://postimg.cc/image/or9dkjftz/))
 ---
 
 
