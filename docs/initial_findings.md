@@ -1,9 +1,7 @@
 # Initial Findings
 
 ---
-
-![WWII](https://raw.githubusercontent.com/somo11/wwii_casualties_by_state/ssomohano/docs/World%20Total%20%20(1).png)
-
+<img alt="Screen Shot 2018-07-22 at 6.30.03 PM.png" src="/somo11/wwii_casualties_by_state/blob/master/docs/Screen%20Shot%202018-07-22%20at%206.30.03%20PM.png?raw=true">
 ---
 
 This is where you where you discuss any (initial) conclusions you have come to. This is also a natural place to put any and all visualizations that you come up with.
