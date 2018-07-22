@@ -1,5 +1,7 @@
 # Problems and Possibilities
 
+---
+
 When our group began our research, we believed most of our information would be obtained through the United States National Archives and Records database. This data base had almost all of the information needed to be able to create visualizations that would enhance our findings and clearly deliver the information. However, we quickly found out that the information we were trying to access could not be scraped via web scraper io. This ultimately brought our group to a cross road on whether we wanted to manually input all the data we received from the National Archives and Records or to pursue other data bases and restart our research. 
 
 Our group decided to to continue using the data found in the National Archives and Records while inputting the data manually. Once we had a basic understanding that we wanted to pursue our research in WWII statistics, our group narrowed down the focus to just the United States. Initially, we thought that we could find information in the National Archives and Records regarding soldiers who were enlisted and soldiers who were drafted. When trying to gather data regarding enlistments, the task began much harder than initially thought. All of the sources we researched could not give a definitive number of draftees versus enlistees. The closest we came to finding soldiers that were drafted were located in subscription based ancestral websites. 
