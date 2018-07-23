@@ -16,7 +16,7 @@ The bar graph at the bottom of this dashboard reaffirms the previous world map c
 [![U.S._Casualties_Both_Branches-1.png](https://s22.postimg.cc/ytl9sq0rl/U.S._Casualties_Both_Branches-1.png)](https://postimg.cc/image/6gps29f19/)
 
 ---
-The total death toll between all U.S. Military branches is depicted above. As shown in the darker blue colors, New York suffered the most casualties with over 36,000. Pennsylvania comes in at a close second with just over 30,000. California, Chicago, Ohio, and Texas suffer the next most casualties.
+The total death toll between all U.S. Military branches is depicted above. As shown in the darker blue colors, New York suffered the most casualties with over 36,000. Pennsylvania comes in at a close second with just over 30,000. California, Chicago, Ohio, and Texas suffer the next most casualties. As expected, the states withthe highest population directly correlated with the amount of casualties. The states that had larger populations tended to have a higher casualty rate. 
 
 ---
 
