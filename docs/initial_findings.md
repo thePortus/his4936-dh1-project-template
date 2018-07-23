@@ -20,17 +20,17 @@ The total death toll between all U.S. Military branches is depicted above. As sh
 
 ---
 
+[![NAVY_2.png](https://s22.postimg.cc/efpjje24x/NAVY_2.png)](https://postimg.cc/image/b8uzzrhot/)
+
+---
+When we broke down the U.S. casualties into Navy, Marines, and Coast Guard, we were surprised to find such a lopsided casualty count when compared to the Army and Air Force casualties in the next visualization below. Of the total 373,000 casualties in our National Archives database, only around 65,000 came from the Navy, Marines, and Coast Guard. Interestingly, though, California came in first with the heaviest death toll amongst the military branches above at just under 7,000.
+
+---
+
 [![ARMY_2.png](https://s22.postimg.cc/kfdanhpmp/ARMY_2.png)](https://postimg.cc/image/6ygc4mfb1/)
 
 ---
 This visualization more closely resembles our first one with total death toll in all military branches. From this, we are able to easily conclude that the Army, which encompassed the Air Force during WWII, suffered over 80% of the United States casualties in the war. 
-
----
-
-[![NAVY_2.png](https://s22.postimg.cc/efpjje24x/NAVY_2.png)](https://postimg.cc/image/b8uzzrhot/)
-
----
-When we broke down the U.S. casualties into Navy, Marines, and Coast Guard, we were surprised to find such a lopsided casualty count when compared to the Army and Air Force casualties in the next visualization below. Of the total 373,000 casualties in our National Archives database, only around 65,000 came from the Navy, Marines, and Coast Guard. Interestingly, though, California came in first with the heaviest death toll amongst the military branches above at just under 7,000. 
 
 ---
 
