@@ -1,8 +1,12 @@
  Initial Findings
 
 
-![image](https://postimg.cc/image/or9dkjftz/)
 
+---
+
+[![World_Total_1.png](https://s15.postimg.cc/8kc9vkam3/World_Total_1.png)](https://postimg.cc/image/h2lpzwh4n/)
+
+=======
 
 
 This is where you where you discuss any (initial) conclusions you have come to. This is also a natural place to put any and all visualizations that you come up with.
