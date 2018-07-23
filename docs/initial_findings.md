@@ -1,16 +1,25 @@
-# Initial Findings
+
+
 
 ---
-![screenshot](wwii_casualties_by_state/docs/Screen Shot 2018-07-22 at 6.30.03 PM.png)
 
-This is where you where you discuss any (initial) conclusions you have come to. This is also a natural place to put any and all visualizations that you come up with.
+[![World_Total_1.png](https://s15.postimg.cc/8kc9vkam3/World_Total_1.png)](https://postimg.cc/image/h2lpzwh4n/)
 
-Whether you turn your visualizations into static pictures and put them here or embed them, you MUST discuss your visualizations adequately. That means that whoever is the visualization expert must explain what they think the visualization means.
+---
 
-You should explain anything that is not self-apparent from the picture alone. Moreover, you should at least comment on whether you think you can draw broader conclusions from any of the visualizations, either when considered individually or all together.
+[![Civilian_vs_Military_Casualties.png](https://s22.postimg.cc/end6ftd2p/Civilian_vs_Military_Casualties.png)](https://postimg.cc/image/r1zyg54kt/)
 
-You should also make sure to be a cautious scholar, and to think about the limitations of what the visualizations can actually tell you.
+---
 
-As indicated by the section name, you are **not** expected to make hard conclusions that upend serious historical debates. Rather, this is a place to explore what might be learned from visual exploration.
+[![ARMY_2.png](https://s22.postimg.cc/kfdanhpmp/ARMY_2.png)](https://postimg.cc/image/6ygc4mfb1/)
 
-You can and should also comment on where you would go next. If these are initial findings, where do you think the best profit would be.
+---
+
+[![NAVY_2.png](https://s22.postimg.cc/efpjje24x/NAVY_2.png)](https://postimg.cc/image/b8uzzrhot/)
+
+---
+
+[![FL_Counties.png](https://s22.postimg.cc/plofy1z41/FL_Counties.png)](https://postimg.cc/image/s3075bj0d/)
+
+---
+
