@@ -1,8 +1,24 @@
 # Initial Findings
 
 ---
-![screenshot](wwii_casualties_by_state/docs/Screen Shot 2018-07-22 at 6.30.03 PM.png)
 
+[![World_Total_1.png](https://s15.postimg.cc/8kc9vkam3/World_Total_1.png)](https://postimg.cc/image/h2lpzwh4n/)
+
+---
+
+[![Civilian_vs_Military_Casualties.png](https://s22.postimg.cc/end6ftd2p/Civilian_vs_Military_Casualties.png)](https://postimg.cc/image/r1zyg54kt/)
+
+---
+
+[![U.S._Navy_Marines_CG_Casualties.png](https://s15.postimg.cc/fou34szxn/U.S._Navy_Marines_CG_Casualties.png)](https://postimg.cc/image/uxk0iktlz/)
+
+---
+
+[![U.S._ARMY_AIR_FORCE_CASUALTIES.png](https://s15.postimg.cc/jl7f0tfsb/U.S._ARMY_AIR_FORCE_CASUALTIES.png)](https://postimg.cc/image/emjwmabzb/)
+
+---
+
+[![FL_Counties.png](https://s22.postimg.cc/plofy1z41/FL_Counties.png)](https://postimg.cc/image/s3075bj0d/)
 This is where you where you discuss any (initial) conclusions you have come to. This is also a natural place to put any and all visualizations that you come up with.
 
 Whether you turn your visualizations into static pictures and put them here or embed them, you MUST discuss your visualizations adequately. That means that whoever is the visualization expert must explain what they think the visualization means.
