@@ -1,6 +1,3 @@
-# Initial Findings
-
----
 
 [![World_Total_1.png](https://s15.postimg.cc/8kc9vkam3/World_Total_1.png)](https://postimg.cc/image/h2lpzwh4n/)
 
@@ -29,3 +26,6 @@ When we broke down the U.S. casualties into Navy, Marines, and Coast Guard, we w
 
 ---
 This Visualization breaks down the amount of Floridean casualties in WWII. Not only does this visual represent the amount of lives lost from Florida, it also divides the deaths by county.
+
+
+
