@@ -1,34 +1,18 @@
 # Source Analysis
-yadadadadada
-i do this
-Delete this introductory material when submitting your assignment.
 
-This source analysis should discuss whatever source(s) you used for this project.
 
-See the [README.md](README.md) file for information on how to submit this assignment.
 ---
 
 ## Basic Source Information
 
-* Where is your source located (URL? Or traditional media)
-* What kind of source is it? (Diaries, records of objects, data tables, etc...)
-* Who, or what organization, is responsible for hosting the source (if online), who gathered the information?
-
----
-
-## Authorship
-
-* Is there any information available discussing the process by which the information was gathered, or how the digital project was constructed?
-* How transparent is the project about the choices they made in gathering and transforming the data for digitalization? [Click here for an example of a an excellent 'About' page from a database about Anglo-Saxons](http://www.pase.ac.uk/about/index.html)
-* Do the organizations or individuals involved in gathering and publishing your data set have any stated goals or agendas?
-* Do the organizations or individuals involved seem to have any unstated agendas or goals?
-* If a 3rd party funded the project, who are they? Do they have any particular perspective?
+* Our Sources are mainly URL sources and is located at NationalArchives.org and NationalWW2museum.org
+* Our sources are census based, hard copied, honor lists.
+* The organization responsible for the information provided is the National Archive and Records Administration.
 
 ---
 
 ## Data Analysis
 
-* Do the datasets involved reflect the viewpoints of particular groups or institutions, and if so, who?
-* What kinds of categorizations do you find in the data, and do they seem reasonable?
-* Do the means of data collection or categorization affect how the data is constructed in any way?
-* Does the website contain any tools for visualizing the data? Do they seem like they are making any kind of arguments?
+The most important thing we would like to note is that for purposes of using a visualizing program like tableau, we had to choose a specific number of casualties due to tableau not being able to clean casualty data from some countries with contested casualty figures. To solve this problem, as one of our sources also did, we averaged the most common minimum and maximum casualty figures agreed upon in most historical works and entered that averaged number into the Excel spreadsheet. For example, Germany’s total death toll is estimated between 6.6 and 8.8 million so we used 7.7 million as our data entry. By doing this, Tableau was finally able to use the data we uploaded. It is in this sence that the data collection for this project does or can play a big role in how the data is constructed. The sources we collected did not use any data visualization tools, the sources ranged from rough casualty estimates to specifice figures.
+
+---
