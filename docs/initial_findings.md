@@ -1,11 +1,17 @@
-# Initial Findings
+ Initial Findings
+
+
 
 ---
+
 [![World_Total_1.png](https://s15.postimg.cc/8kc9vkam3/World_Total_1.png)](https://postimg.cc/image/h2lpzwh4n/)
+
+=======
+
 
 This is where you where you discuss any (initial) conclusions you have come to. This is also a natural place to put any and all visualizations that you come up with.
 
-Whether you turn your visualizations into static pictures and put them here or embed them, you MUST discuss your visualizations adequately. That means that whoever is the visualization expert must explain what they think the visualization means.
+Whether you turn your visualizations into static pictures and put them here or embed them, you MUST discuss your visualizations adequately.. That means that whoever is the visualization expert must explain what they think the visualization means.
 
 You should explain anything that is not self-apparent from the picture alone. Moreover, you should at least comment on whether you think you can draw broader conclusions from any of the visualizations, either when considered individually or all together.
 
