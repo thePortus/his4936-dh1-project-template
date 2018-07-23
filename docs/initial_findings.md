@@ -1,4 +1,3 @@
- Initial Findings
 
 
 
@@ -9,10 +8,6 @@
 ---
 
 [![Civilian_vs_Military_Casualties.png](https://s22.postimg.cc/end6ftd2p/Civilian_vs_Military_Casualties.png)](https://postimg.cc/image/r1zyg54kt/)
-
----
-
-[![U.S._Navy_Marines_CG_Casualties.png](https://s15.postimg.cc/fou34szxn/U.S._Navy_Marines_CG_Casualties.png)](https://postimg.cc/image/uxk0iktlz/)
 
 ---
 
