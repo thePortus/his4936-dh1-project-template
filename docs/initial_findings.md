@@ -6,7 +6,23 @@
 
 [![World_Total_1.png](https://s15.postimg.cc/8kc9vkam3/World_Total_1.png)](https://postimg.cc/image/h2lpzwh4n/)
 
-=======
+---
+
+[Civilian_vs_Military_Casualties.png](https://postimg.cc/image/5209zcp7b/)
+
+---
+
+[![World_Total_1.png](https://s15.postimg.cc/8kc9vkam3/World_Total_1.png)](https://postimg.cc/image/h2lpzwh4n/)
+
+---
+
+[![U.S._Navy_Marines_CG_Casualties.png](https://s15.postimg.cc/fou34szxn/U.S._Navy_Marines_CG_Casualties.png)](https://postimg.cc/image/uxk0iktlz/)
+
+---
+
+[![U.S._ARMY_AIR_FORCE_CASUALTIES.png](https://s15.postimg.cc/jl7f0tfsb/U.S._ARMY_AIR_FORCE_CASUALTIES.png)](https://postimg.cc/image/emjwmabzb/)
+
+
 
 
 This is where you where you discuss any (initial) conclusions you have come to. This is also a natural place to put any and all visualizations that you come up with.
