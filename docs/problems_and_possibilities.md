@@ -7,6 +7,8 @@ Our group decided to continue using the data found in the National Archives and 
 When we discovered that comparing the death toll of the soldiers who were drafted to those who were enlisted was far-fetched, we were very upset because we were interested in finding out for ourselves as well as creating more visuals for our research. At this point our group came together to find an alternative direction to take our project. 
 
 Since we hit a dead end with draftees and enlistees, we decided to stay with U.S. casualties by state. Though to enhance our research, we included a visualization of all casualties in WWII by country in our introduction as a segway to our focus of the United States!
+
 The further along we got with our project, the more difficulties we came across. The ‘imgs’ file in our template was missing so we had to save a screenshot from GitHub, then we had to create a new url for each screenshot. 
 
 The possibilities for this project are endless with a longer duration of time and larger data sets. If our group had the information, we would have liked to know the statistic by enlistment compared to those that were drafted. Future projects stemming from this project can also expand our original idea world wide and break down the WWII statistics by nation, ethnicity or even religion.
+
