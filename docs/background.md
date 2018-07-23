@@ -2,6 +2,7 @@
 
 ---
 
+Our research topic is American WW2 casualties by military branch and by U.S. state. We would like to explore some interesting questions of which states contained the most casualties in the war as well as which branches of the military. 
 
 ---
 
