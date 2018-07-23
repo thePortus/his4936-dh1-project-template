@@ -8,7 +8,7 @@
 
 ---
 
-[![Civilian_vs_Military_Casualties.png](https://postimg.cc/image/5209zcp7b/)
+[![Civilian_vs_Military_Casualties.png](https://s22.postimg.cc/end6ftd2p/Civilian_vs_Military_Casualties.png)](https://postimg.cc/image/r1zyg54kt/)
 
 ---
 
@@ -21,6 +21,8 @@
 ---
 
 [![FL_Counties.png](https://s22.postimg.cc/plofy1z41/FL_Counties.png)](https://postimg.cc/image/s3075bj0d/)
+
+---
 
 This is where you where you discuss any (initial) conclusions you have come to. This is also a natural place to put any and all visualizations that you come up with.
 
