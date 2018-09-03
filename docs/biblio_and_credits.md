@@ -15,7 +15,7 @@
 * Put your group member's credits here
 * Link to any emails or github accounts (if you want)
 * Leave the credits at the bottom
-* [David J. Thomas](mailto:davidjthomas@usf.edu)
+* [David J. Thomas](mailto:davidjthomas@usf.edu), Lord Commander of the Black Watch
 
 ---
 
